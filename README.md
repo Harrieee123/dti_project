@@ -6,7 +6,7 @@ A small attempt to make an Food delivery app user interface in Flutter for Andro
 ## 🤓 Author(s)
 **Aaditya Pathak**
 
-## Food Ordering & Delivery App UI in Flutter
+## Food Ordering & Delivery App UI in HTML CSS and javascript 
 <img src="screens/full_ui.png"  />
 
 ## ScreenShots
