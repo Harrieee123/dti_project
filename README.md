@@ -9,13 +9,18 @@ Some screenshots from the project
 
 
 
-![Screenshot (119)](https://github.com/Harrieee123/dti_project/assets/143493179/163a8ee2-7575-4b8c-a4ba-25211f910cc5)
+
+
+![Screenshot (119)](https://github.com/Harrieee123/dti_project/assets/143493179/c0b3bdd5-17c8-492c-bfae-6529ba07e11b)
 
 
 
 
 
-![Screenshot (119)](https://github.com/Harrieee123/dti_project/assets/143493179/694e5467-837d-4e3b-bbf5-e188a8f02514)
+
+
+![Screenshot (120)](https://github.com/Harrieee123/dti_project/assets/143493179/11915406-e38f-436f-95e7-b27f536b29fa)
+
 
 
 
